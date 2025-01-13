@@ -75,7 +75,6 @@ class MainLayout extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
-          // Adicione a ação do botão aqui
         },
         backgroundColor: Colors.purple,
         child: const Icon(Icons.add, color: Colors.white),
