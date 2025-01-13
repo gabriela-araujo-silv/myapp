@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-  p  rojeto desenvolvido para obtenção de nota do Módulo Desenvolvimento Web.
+  Projeto desenvolvido por mim, Gabriela Araujo para obtenção de nota do Módulo Desenvolvimento Web.
 
 A few resources to get you started if this is your first Flutter project:
 
